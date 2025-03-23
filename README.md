@@ -17,3 +17,5 @@ Ejecuta el siguiente comando:
 
 ```bash
 python3 Iniciar.py
+
+y luego siga las indicaciones del archivo "README.html"
